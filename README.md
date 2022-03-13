@@ -1,3 +1,3 @@
-- Hi, I’m Daiji - I'm an 18 year old uni student.
+- Hi, I’m Daisy. I'm an 18 year old uni student.
 - I’m interested in Game Development Programming and playing pc games
 - I’m currently learning C#, unity, unreal engine and blender
