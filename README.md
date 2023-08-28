@@ -1,1 +1,1 @@
-- Hi, I’m Daisy. I'm a 21-year-old Programmer and Indie Developer.
+- Hi, I’m Daisy. I'm a 21-year-old Programmer, XR Developer, and Indie Developer.
